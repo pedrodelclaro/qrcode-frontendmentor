@@ -4,8 +4,42 @@ body {
     margin: 0;
     background: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
 }
 
+.outer {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: min-content;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 10px 5px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+    margin: 5px 10px 20px;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
 
 .attribution {
     font-size: 11px;
