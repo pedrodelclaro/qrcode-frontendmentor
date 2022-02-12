@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pedrodelclaro/qrcode-frontendmentor)
-- Live Site URL: [Add live site URL here](https://pedrodelclaro.github.io/qrcode-frontendmentor/)
+- [Solution URL](https://github.com/pedrodelclaro/qrcode-frontendmentor)
+- [Live Site URL](https://pedrodelclaro.github.io/qrcode-frontendmentor/)
 
 ### Built with
 
@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Used this exercise to pratice basic contents of html, CSS and, especially, flexbox that i recently learn through The Odin Project's course.
+Used this exercise to pratice basic concepts of html, CSS and especially flexbox that i recently learn through The Odin Project's course.
 
 ## Author
 
