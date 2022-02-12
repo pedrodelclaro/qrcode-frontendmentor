@@ -6,8 +6,8 @@ body {
     font-family: 'Outfit', sans-serif;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
     align-items: center;
+    height: 100vh;
 }
 
 .outer {
@@ -19,6 +19,7 @@ body {
     text-align: center;
     padding: 10px;
     border-radius: 10px;
+    margin-top: auto;
 }
 
 h1 {
@@ -44,7 +45,9 @@ img {
 .attribution {
     font-size: 11px;
     text-align: center;
+    margin-top: auto;
 }
+
 
 .attribution a {
     color: hsl(228, 45%, 44%);
