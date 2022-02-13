@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
-### Screenshot
+### Screenshotgi
 
 ![](./images/screenshot.png)
 
@@ -21,9 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML5
+- CSS Flexbox
 
 ### What I learned
 
